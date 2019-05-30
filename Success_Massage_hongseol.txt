@@ -5,4 +5,7 @@
         # hello~ this is hongseol
 
         # contact
-        # E-mail : hongseol1993@daum.net 
+        # E-mail : hongseol1993@daum.net
+
+        # 추가된 메세지 입니다.
+        # 추가된 메세지 입니다.
